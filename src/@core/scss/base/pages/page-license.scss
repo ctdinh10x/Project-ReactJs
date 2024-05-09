@@ -1,0 +1,28 @@
+.col{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.col-sm-12{
+    padding-left: 40px;
+}
+
+.sc-jrcTuL:hover{
+    cursor: pointer;
+    background-color: #d3d2d2;
+}
+
+Form{
+    padding: 0px 20px;
+}
+
+.offset-md-3{
+    justify-content: flex-end;
+    padding: 20px 20px;
+}
+
+.modal-content{
+    margin: 0px 100px ;
+}
